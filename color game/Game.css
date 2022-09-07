@@ -1,0 +1,37 @@
+body{
+	background: black;
+}
+
+.square{
+	margin: 1.66%;
+	width: 30%;
+	float: left;
+	background: purple;
+	padding-bottom: 30%;
+
+}
+
+h1{
+	color: white;
+}
+
+#container{
+	margin: 0 auto;
+	max-width: 600px;
+}
+
+#messageDisplay{
+	color: white;
+}
+
+#reset{
+	text-align: center;
+}
+
+.selected{
+	background-color: blue;
+}
+
+.grouped{
+	text-align: center;
+}
